@@ -957,7 +957,7 @@ def main():
             Data sources: EU Publications Office [citation:3][citation:6], Malaysia Government [citation:9]<br>
             Last updated: {datetime.now().strftime("%B %d, %Y")}
         </p>
-        <p style="margin-top: 1rem;">Created with Python, Streamlit, and ❤️</p>
+        <p style="margin-top: 1rem;">Created by Abubakar ali KRYNOX42</p>
     </div>
     """, unsafe_allow_html=True)
 
